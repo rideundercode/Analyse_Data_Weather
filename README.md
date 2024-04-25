@@ -3,8 +3,7 @@ Projet d'Analyse des Données Météorologiques
 Titre du Projet: Analyse des Tendances Climatiques de la Région de Bordeaux sur les Dernières Décennies
 
 - Objectif Principal:
-Examiner les changements climatiques dans la région de Bordeaux au cours des trente dernières années, en se concentrant sur les températures et les précipitations, afin d'identifier d'éventuels schémas de variation saisonnière et annuelle. L'analyse vise à comprendre comment le climat a évolué et à prévoir les impacts potentiels sur l'agriculture locale, en particulier la viticulture, qui est cruciale pour l'économie régionale.
-
+Examiner les changements climatiques dans la région de Bordeaux au cours des trente dernières années, en se concentrant sur les températures et les précipitations, afin d'identifier d'éventuels schémas de variation saisonnière et annuelle. L'analyse vise à comprendre comment le climat a évolué et à prévoir les impacts potentiels sur l'agriculture locale, bordeaux etant une region cultivatrice de raisin, raisin sur lequel l'economie de la redion depends fortement pour la production de vin.
 - Questions Spécifiques à Explorer:
 Tendances de Température:
 Comment les températures maximales et minimales ont-elles évolué durant les mois d'été et d'hiver au cours des trente dernières années ?
@@ -67,3 +66,32 @@ Informations sur les cycles de croissance des vignes et les rendements annuels p
             }
         }
     },
+
+
+Analyse des Tendances de Température
+Observations :
+
+Les températures moyennes ont montré une tendance à l'augmentation au fil des années, comme l'illustre la ligne de tendance sur le graphique des températures moyennes.
+La moyenne mobile sur 12 mois indique une atténuation des fluctuations saisonnières, permettant de mieux visualiser les variations à long terme.
+Interprétations :
+
+La hausse de la ligne de tendance suggère une augmentation globale des températures, ce qui pourrait être un indicateur du réchauffement climatique.
+Les températures maximales et minimales durant les mois d'été et d'hiver devront être analysées plus en détail pour confirmer les tendances saisonnières.
+Analyse des Précipitations
+Observations :
+
+La tendance linéaire pour les précipitations est relativement plate, indiquant une absence de changement significatif dans la quantité totale des précipitations annuelles au cours des trente dernières années.
+La décomposition saisonnière montre clairement les variations saisonnières, avec des pics qui correspondent aux saisons traditionnellement pluvieuses.
+Interprétations :
+
+Il ne semble pas y avoir de tendance indiquant une augmentation ou une diminution significative de la pluviométrie durant les saisons de croissance des vignes.
+Les années extrêmes, avec des précipitations significativement plus hautes ou plus basses que la médiane, pourraient indiquer des anomalies ou des événements extrêmes.
+Impact sur la Viticulture
+Observations :
+
+L'augmentation de la température pourrait avoir un impact sur la phénologie des vignes, potentiellement en avançant le début des cycles de croissance et en affectant la maturation des raisins.
+La stabilité des précipitations est favorable, mais les années extrêmes doivent être prises en compte pour la gestion de l'eau et la planification de la vigne.
+Recommandations Préliminaires :
+
+Il est recommandé aux viticulteurs d'envisager des stratégies d'adaptation aux températures croissantes, telles que l'ajustement des cépages et des pratiques culturales.
+La gestion de l'eau doit intégrer les données sur les événements pluvieux extrêmes pour éviter les stress hydriques sur les vignes.
